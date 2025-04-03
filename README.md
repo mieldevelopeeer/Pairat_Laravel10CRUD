@@ -1,0 +1,1 @@
+# Pairat_Laravel10CRUD
